@@ -1,6 +1,21 @@
 # Korea-AURIs-Data
 This is the data of AURIs patients in Korea.
 
+## Dataset Information
+
+- This dataset was obtained from the NHISS and includes monthly patient count data.  
+- The dataset is preprocessed, and the diseases included are as follows:  
+
+| Code | Disease                          |
+|------|----------------------------------|
+| J00  | Acute nasopharyngitis (common cold) |
+| J01  | Acute sinusitis                 |
+| J02  | Acute pharyngitis               |
+| J03  | Acute tonsillitis               |
+| J04  | Acute laryngitis and tracheitis |
+| J05  | Acute obstructive laryngitis (croup) and epiglottitis |
+| J06  | Acute upper respiratory infections of multiple and unspecified sites |
+
 
 ## Grouping Information
 
